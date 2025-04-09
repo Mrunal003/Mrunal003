@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrunal003&show_icons=true&locale=en" alt="mrunal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunal003&" alt="mrunal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrunal003&theme=tokyonight-duo)](https://git.io/streak-stats" alt="mrunal" /></p>
