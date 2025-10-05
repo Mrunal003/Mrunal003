@@ -6,6 +6,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Mrunal003?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Mrunal003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Java-SpringBoot-blue?logo=java" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Linux-Terminal-lightgrey?logo=linux" />
+</p>
+
+---
+
 ### 🌱 Currently Learning
 **Autonomous and Embedded Software Systems**
 
@@ -21,7 +31,7 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="http://codeforces.com/profile/Mrunal_Vekariya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
@@ -38,25 +48,23 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 🧠 Languages and Tools
 <p align="center">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,react,js,html,css,spring,aws,docker,kubernetes,postgresql,mongodb,linux,git,tensorflow,sklearn&theme=light" />
 </p>
+
+---
+
+### 💼 Featured Projects
+
+🔹 [**Image Processing App (Java, MVC)**](https://github.com/Mrunal003/Image-Processing-App)  
+GUI-based app with 400+ JUnit tests ensuring modular and reliable image manipulation.
+
+🔹 [**GenreMatch: Movie Recommendation System**](https://github.com/Mrunal003/Movie-Recommended-System)  
+NLP-based recommender that suggests movies by genre similarity using Streamlit.
+
+🔹 [**QuickBuy E-Commerce Platform**](https://github.com/Mrunal003/QuickBuy)  
+MERN + Spring Boot full-stack app with secure payments and intuitive admin dashboard.
 
 ---
 
@@ -71,5 +79,40 @@
 
 ---
 
-### ⚡ Fun Fact
-> "Debugging is like being the detective in a crime movie where you are also the murderer." 🕵️‍♂️💻
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mrunal003&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧩 Dev Metrics Dashboard
+![Mrunal's Dev Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrunal003&theme=react)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mrunal003&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mrunal003&theme=react" />
+</p>
+
+---
+
+### 📈 Activity Graph
+[![Mrunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrunal003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🧭 What I'm Working On
+- Building cloud automation pipelines with AWS, Jenkins, and Bitbucket ☁️  
+- Learning embedded software and ROS for autonomous systems 🤖  
+- Enhancing microservices and CI/CD deployment efficiency ⚙️  
+
+---
+
+### 🐍 Fun Animation
+![snake gif](https://github.com/Mrunal003/Mrunal003/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
