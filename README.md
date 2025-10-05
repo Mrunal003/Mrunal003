@@ -1,4 +1,5 @@
-![logo](https://github.com/atir5701/atir5701/blob/main/banner.jfif)
+![Uploading GitHub Front.jpg…]()
+
 
 <h1 align="center">Hello, I'm Mrunal Vekariya</h1>
 <h3 align="center">Enthusiast in DevOps Engineer, Software Devlopment Engineer, Machine Learning and Data Science | Master's Student at Northeastern University</h3>
