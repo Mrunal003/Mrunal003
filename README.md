@@ -1,4 +1,4 @@
-![Uploading GitHub Front.jpg…]()
+![GitHub Front](https://github.com/user-attachments/assets/42c815ad-f4dc-41ea-8ce4-f5e3cd39df54)
 
 
 <h1 align="center">Hello, I'm Mrunal Vekariya</h1>
