@@ -16,7 +16,7 @@
 📧 **mrunal.vekariya2003@gmail.com**
 
 ### 📄 My Resume
-[**View Resume**](https://drive.google.com/file/d/1xy6bye9_1IBRp9yLnX_yHSGx29EIMoAb/view?usp=sharing)
+[**View Resume**]()
 
 ---
 
